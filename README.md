@@ -10,7 +10,7 @@ To address this critical issue, the United Nations has outlined 17 Sustainable D
 - **Goal 8:** Decent Work and Economic Growth
 - **Goal 10:** Reduced Inequalities
 
-As part of the UN's gender-focused initiatives, the Equality Data Investigative Unit has been tasked with exploring the roots of these disparities, identifying which countries are most affected, and uncovering the underlying causes. Our project builds upon the influential work of **Claudia Goldin**, the 2023 Nobel Laureate in Economic Sciences, whose research, including the well-known **U-Curve** of women’s labor force participation, provides a foundational understanding of these gender gaps.
+As part of the UN's gender-focused initiatives, the Equality Data Investigative Unit has been tasked with exploring the roots of these disparities, identifying which countries are most affected, and uncovering the underlying causes. Our project builds upon the influential work of **Claudia Goldin**, the **2023 Nobel Laureate** in Economic Sciences, whose research, including the well-known **U-Curve** of women’s labor force participation, provides a foundational understanding of these gender gaps.
 
 ### Project Objectives
 
@@ -31,11 +31,11 @@ Addressing these questions is vital for global economic prosperity. Inefficient 
 
 ## Dataset Description
 
-This analysis uses data from the World Bank Gender Data Portal, provided in a comprehensive dataset with 305,545 rows and 57 columns. The dataset covers 1,153 variables across 265 countries and regions, organized chronologically from 1991 to 2021. For analysis, the dataset has been expanded to over 38 million rows when converted to long format, allowing for in-depth longitudinal and continental comparisons.
+This analysis uses data from the World Bank Gender Data Portal, provided in a comprehensive dataset with **305,545 rows** and **57 columns**. The dataset covers 1,153 variables across 265 countries and regions, organized chronologically from 1991 to 2021. For analysis, the dataset has been expanded to over **38 million rows** when converted to long format, allowing for in-depth longitudinal and continental comparisons.
 
 ### Disclaimer on Gender Representation
 
-Our research follows Claudia Goldin's framework and the binary gender data provided by the World Bank, focusing on male and female classifications. While this analysis operates within a binary context, we recognize and respect the broader spectrum of gender identities and the importance of a more inclusive approach to gender equality.
+Our research follows **Claudia Goldin's** framework and the binary gender data provided by the World Bank, focusing on male and female classifications. While this analysis operates within a binary context, we recognize and respect the broader spectrum of gender identities and the importance of a more inclusive approach to gender equality.
 
 ### Emphasis on Data Analysis
 
